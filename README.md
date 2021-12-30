@@ -7,4 +7,4 @@ would this work as task list?
 - [ ] això és una altra tasca?
 
 
-linking issues #15
+linking issues #23
